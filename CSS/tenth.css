@@ -1,0 +1,16 @@
+p{
+    background-color: rgb(207, 187, 7);
+    color: red;
+    border-radius: 10px;
+    width: 700px;
+    height: 125px;
+    padding-top: 1%;
+    padding-left: 0.5%;
+    padding-right: 0.5%;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+h1{
+    padding-left: 28%;
+}
