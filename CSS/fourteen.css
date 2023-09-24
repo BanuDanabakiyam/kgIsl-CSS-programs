@@ -1,0 +1,15 @@
+.bold-span{
+    font-weight: bold;
+}
+.para{
+    background-color: coral;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: justify;
+    font-size: 24px;
+    border-radius: 10px;
+    margin-left: 25%;
+    margin-top: 5%;
+    width: 40%;
+    height: 250%;
+    padding: 3%;
+}
