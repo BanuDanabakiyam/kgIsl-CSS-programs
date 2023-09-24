@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(230, 148, 47);
+}
+.header{
+    font-family: Helvetica;
+    font-style: italic;
+    margin-top: 2%;
+    padding-left: 2%;
+}
+.para p{
+    background-color: burlywood;
+    height: 400%;
+    width: 40%;
+    border-radius: 10px;
+    text-align: justify;
+    font-size: larger;
+    padding: 1%;
+    margin-left: 2%;
+    outline-style: solid;
+    font-family: Helvetica;
+    }
+    @media(max-width: 700px){
+        .para p{
+            width: 90%;
+            height: 100%;
+            padding: 3%;
+        }
+    }
