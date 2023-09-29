@@ -1,0 +1,48 @@
+body{
+    background-color: darkkhaki;
+}
+.dropdown {
+    display: flex;
+    list-style-type: none;
+    justify-content: right;
+    margin-top: 5px;
+    margin-right: 20%;
+    font-size: 20PX;
+    
+}
+a{
+    display: block;
+    text-decoration: none;
+    width: 80px;
+    padding: 35px;
+    color: rgb(31, 26, 26);
+}
+.dropdown :hover{
+    color: rgb(110, 102, 102);
+}
+
+.course{
+    position: relative;
+    background-color: rgb(211, 200, 200);
+    color: black;
+    display: none;
+    width: 95%;
+    list-style-type: none;
+    padding-left: 0.5%;
+
+}
+.dropdown li:nth-child(3):hover .course{
+    display: block;
+}
+.sub-course{
+    position: absolute;
+    background-color: rgb(134, 123, 123);
+    display: none;
+    width: 150%;
+    margin-left: 99.5%;
+    list-style-type: none;
+    padding-left: 0.5%;
+}
+.course li:nth-child(1):hover .sub-course{
+    display: block;
+}
