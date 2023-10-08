@@ -1,0 +1,35 @@
+h1{
+  margin-left: 10%;
+}
+.container {
+    width: 200px;
+    font-size: 20px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    border: 2px solid #6c6767;
+    align-items: center;
+    margin-left: 10%;
+    margin-bottom: 12px;
+    background-color: rgb(70, 70, 67);
+}
+.container p{
+  padding: 4px;
+  color: white;
+}
+.container1 p{
+  padding: 4px;
+  color: white;
+}
+.container1 {
+  width: 200px;
+  font-size: 20px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  border: 2px solid #6c6767;
+  align-items: center;
+  margin-left: 10%;
+  background-color: rgb(70, 70, 67);
+}
+  
