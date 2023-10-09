@@ -1,0 +1,36 @@
+h1{
+    padding-left: 5%;
+}
+.para1{
+    width: 300px;
+    height: 160px;
+    text-align: justify;
+    text-transform: uppercase;
+    background-color: darkkhaki;
+    padding: 1%;
+    margin-right: 2%;
+}
+.para2{
+    width: 300px;
+    height: 150px;
+    text-align: justify;
+    text-transform: lowercase;
+    background-color: darkkhaki;
+    padding: 1%;
+    margin-right: 2%;
+
+}
+.para3{
+    width: 300px;
+    height: 200px;
+    text-transform: capitalize;
+    background-color: darkkhaki;
+    text-align: justify;
+    padding: 1%;
+    margin-right: 2%;
+
+}
+.container{
+    padding-left: 5%;
+    display: flex;
+}
