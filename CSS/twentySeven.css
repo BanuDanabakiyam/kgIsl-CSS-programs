@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(195, 189, 105);
+
+}
+.para1{
+    letter-spacing: 1px;
+    font-size: 18px;
+}
+.para2{
+    letter-spacing: 2px;
+    font-size: 18px;
+}
+.para3{
+    letter-spacing: 3px;
+    font-size: 18px;
+}.para4{
+    letter-spacing: 4px;
+    font-size: 18px;
+}
+.para5{
+    letter-spacing: 5px;
+    font-size: 18px;
+}
+.para6{
+    letter-spacing: 6px;
+    font-size: 18px;
+}
